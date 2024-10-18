@@ -5,6 +5,7 @@ import streamlit as st
         
 car_data = pd.read_csv('./data/vehicles_us.csv') # leer los datos
 hist_button = st.button('Construir histograma') # crear un botón
+scatter_button = st.button('Construir grafico de dispersión') #crear un botón
         
 if hist_button: # al hacer clic en el botón
     # escribir un mensaje
