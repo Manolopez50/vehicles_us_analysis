@@ -18,3 +18,4 @@ Se pueden ajustar parámetros como el tamaño de las barras, colores, y etiqueta
 Visualización:
 
 El histograma se muestra en la UI. El usuario puede interactuar con él, por ejemplo, haciendo zoom o consultando detalles de los datos.
+https://vehicles-us-analysis-l1it.onrender.com
